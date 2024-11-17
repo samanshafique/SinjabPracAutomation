@@ -15,6 +15,13 @@
     </properties>
 
     <dependencies>
+
+        <dependency>
+            <groupId>io.appium</groupId>
+            <artifactId>java-client</artifactId>
+            <version>9.3.0</version>
+        </dependency>
+
         <!-- Selenium WebDriver Dependency -->
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
