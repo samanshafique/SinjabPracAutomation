@@ -4,7 +4,7 @@ import com.jayway.jsonpath.JsonPath;
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;
 import org.SinjabPracAutomation.CustomExceptions.InvalidPathException;
-import org.SinjabPracAutomation.Enums.DemoQAEnums;
+import org.SinjabPracAutomation.Enums.WebEnums;
 
 import java.io.File;
 import java.io.IOException;
@@ -15,7 +15,7 @@ public final class JsonUtils {
 
   private static Map < String, String > map;
 
-  public static String getValue(DemoQAEnums key, String filePath) {
+  public static String getValue(WebEnums key, String filePath) {
     try {
       return JsonPath.read(new File(filePath), key.toString().toLowerCase());
     } catch (IOException e) {

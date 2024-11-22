@@ -1,7 +1,9 @@
 {
   "first_name": "firstName",
   "last_name": "lastName",
-  "email": "userEmail",
+  "email": "input[placeholder='Email']",
+  "password": "input[placeholder='Password']",
+  "sign_in": "//button[normalize-space()='SIGN IN']",
   "gender_male": "label[for='gender-radio-1']",
   "phone_number": "userNumber",
   "date_of_birth": "dateOfBirthInput",
