@@ -139,8 +139,8 @@ options.setAutoGrantPermissions(true);
         System.out.println("Clicked on time Slot");
 
 
-        WebElement logibbtn = wait.until(ExpectedConditions.presenceOfElementLocated(By.id("com.setpoint.android.dev:id/button")));
-        logibbtn.click();
+        WebElement proceedbtn = wait.until(ExpectedConditions.presenceOfElementLocated(By.id("com.setpoint.android.dev:id/button")));
+        proceedbtn.click();
         System.out.println("Clicked on proceed button");
 
 

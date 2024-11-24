@@ -1,4 +1,29 @@
 package org.SinjabPracAutomation.Enums;
 
 public enum MobileEnums {
+
+    START_BTN,
+    DONE_BTN,
+    EMAIL_FIELD,
+    PHONE_FIELD,
+    SIGNIN_BTN,
+    OTP_FIELD_1,
+    OTP_FIELD_2,
+    OTP_FIELD_3,
+    OTP_FIELD_4,
+    OTP_FIELD_5,
+    OTP_FIELD_6,
+    EXPLORE_CLUBS,
+    POPUP_OK_BTN,
+    LOCATION_ACCESS_BTN,
+    ALLOW_BTN,
+    SHAHRUKH_CLUB,
+    BOOK_ACTIVITY_BTN,
+    BOOK_MATCH_BTN,
+    SELECT_DATE,
+    SELECT_SPORT,
+    TIME_SELECTION,
+    PROCEED_BTN,
+    PAY_BTN,
+    TOGGLE_SWITCH
 }

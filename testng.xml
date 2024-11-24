@@ -2,7 +2,7 @@
     <test name="Parallel Test">
         <classes>
             <class name="SinjabPageObjectModelTestCase" />
-            <class name="DemoQATestCase" />
+<!--            <class name="DemoQATestCase" />-->
         </classes>
     </test>
 </suite>

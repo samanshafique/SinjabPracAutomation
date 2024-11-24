@@ -1,0 +1,12 @@
+{
+  "deviceName": "Pixel6TestDevice",
+  "platformName": "Android",
+  "automationName": "UiAutomator2",
+  "app": "D:/AutomationProjects/SinjabPracAutomation/src/test/resources/Mobile/sinjab-v109-3.3.2-Dev.apk",
+  "appPackage": "com.setpoint.android.dev",
+  "appActivity": "com.setpoint.android.ui.activity.SplashActivity",
+  "fullReset": true,
+  "noReset": false,
+  "autoGrantPermissions": true,
+  "serverURL": "http://127.0.0.1:4723/wd/hub"
+}

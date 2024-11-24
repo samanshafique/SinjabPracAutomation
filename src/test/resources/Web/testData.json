@@ -2,11 +2,12 @@
   "url": "https://dev.sinjabapps.com/login",
   "email": "saman.shafiq@nextgeni.com",
   "password": "123456789",
-  "first_name": "Umair",
-  "last_name": "Khan",
+  "package_engtitle": "Gold Super Package",
+  "package_arbtitle": "Gold Super Package",
 
-  "phone_number": "03150000000",
-  "date_of_birth": "07 Oct 2024",
-  "subject": "math",
-  "current_address": "xyz Karachi"
+  "package_deseng": "Gold Super Package provide user Extra benefits for booking",
+  "package_desarb": "Gold Super Package provide user Extra benefits for booking",
+  "package_price": "5",
+  "package_usagecount": "4",
+  "package_bookingdiscount": "2"
 }
