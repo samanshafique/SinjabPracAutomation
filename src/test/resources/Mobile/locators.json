@@ -1,10 +1,10 @@
 {
 
-  "email": "input[placeholder='Email']",
-  "password": "input[placeholder='Password']",
-  "sign_in": "//button[normalize-space()='SIGN IN']",
-  "club_management": "//p[normalize-space()='Club Management']",
-  "package_menu": "//p[normalize-space()='Packages']",
+  "email": "com.setpoint.android.dev:id/etEmail",
+  "phone": "com.setpoint.android.dev:id/etPhone",
+  "sign_in": "com.setpoint.android.dev:id/bSignIn",
+  "start_btn": "com.setpoint.android.dev:id/bStart",
+  "done_btn": "com.setpoint.android.dev:id/btnProceed",
   "create_package": "//a[normalize-space()='Create New Package']",
   "branch_dropdown": "branchesDropdown",
   "select_sports": "//textarea[@placeholder='Select Sports']",
